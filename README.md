@@ -1,6 +1,6 @@
 ## JavaScript Notes
 
-<center><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnA1blBeGIRgFSBoaQ5ga0Houzm05zyuM_RXqDlSBbAFXKoJJ&s'></center>
+<p align="center"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnA1blBeGIRgFSBoaQ5ga0Houzm05zyuM_RXqDlSBbAFXKoJJ&s"/></p><br/>
 
 These are the notes I prepared for myself while taking the [Beginner JavaScript course](https://BeginnerJavaScript.com) by the one and only [Wes Bos](https://wesbos.com).
 
