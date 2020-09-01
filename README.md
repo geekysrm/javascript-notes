@@ -8,14 +8,14 @@
 
 <p align="center"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnA1blBeGIRgFSBoaQ5ga0Houzm05zyuM_RXqDlSBbAFXKoJJ&s"/></p><br />
 
-These are the notes I prepared for myself while taking the [Beginner JavaScript course](https://BeginnerJavaScript.com) by the one and only [Wes Bos](https://wesbos.com).
+These are the notes I prepared for myself while taking the [Beginner JavaScript](https://BeginnerJavaScript.com) course by [Wes Bos](https://wesbos.com).
 
-Full notes can be found [here](https://www.notion.so/geekysrm/Beginner-JavaScript-e2ef045754d14e96b93791f638bbcaf6).
+📄 Full notes here: [https://notes.soumya.dev/javascript](https://notes.soumya.dev/javascript)
 
-Feel free to raise a PR for corrections, additions etc.
+Feel free to raise a PR for corrections, additions etc. and don't forget to ⭐ it.
 
 Hope this helps!
 
 Enjoy!
 
-\- Soumya (@geekysrm)
+\- [Soumya](https://soumya.dev) (@geekysrm)
